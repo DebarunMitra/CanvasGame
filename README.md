@@ -14,10 +14,10 @@ GoblinGo
 
 ## Technology Used:
 
--- HTML,Canvas
--- CSS
--- JavaScript(ES6)
--- Bootstrap
+- HTML,Canvas
+- CSS
+- JavaScript(ES6)
+- Bootstrap
 
 ## Objective:
 
