@@ -1,0 +1,52 @@
+/* GoblinGo Game
+<<<<<<< HEAD
+Author: Aadesh Nichite,Debarun
+=======
+Author: Aadesh Nichite,Debarun Mitra
+>>>>>>> 9352a5a919a2f8d28b9ebdd97cc7a5ff97c47d79
+It is a simple game application */
+body{
+  background-color: #00520D;
+}
+.add-ground
+{
+  background-image: url('../images/playGround.png');
+  border: 10px;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-position: center;
+  height: 100%;
+}
+.game-bar
+{
+   padding-left: 15%;
+}
+.game-Name{
+  padding-top: 80%;
+  color: white;
+  font-family: cursive;
+  font-size: 40px;
+}
+.inputs
+{
+  padding-top: 3%;
+  padding-left: 0px;
+}
+.input-box
+{
+  margin: 10px;
+  border: none;
+  border-radius: 25px;
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  outline: none;
+}
+.btn-position{
+	padding-top:50px;
+}
+.start-btn{
+  border-radius: 25px;
+  width: 100%;
+}
